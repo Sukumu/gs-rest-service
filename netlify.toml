@@ -1,0 +1,5 @@
+
+[build]
+  base    = ""
+  publish = "target/site"
+  command = "./mvnw spring-boot:run"
