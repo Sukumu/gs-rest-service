@@ -1,0 +1,11 @@
+
+#
+# ./gradlew bootRun
+# ./mvnw spring-boot:run
+# ./gradlew build
+#   
+
+[build]
+  base    = ""
+    publish = ""
+  command = "./gradlew bootRun"
